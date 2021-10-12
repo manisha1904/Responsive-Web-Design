@@ -1,0 +1,62 @@
+body{
+ margin: 0 auto;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+  
+    
+}
+center{
+    margin: 30px 20px 20px 20px; 
+    background-color: rgb(219, 213, 214); 
+
+}
+
+header{
+    padding-top: 40px; 
+    font-size: 1.4em; 
+}
+
+.main{
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.main-image{
+    width: 1000px;
+    height: 650px;
+}
+
+#image-caption{
+    margin-top: 15px;
+    padding-bottom: 20px;
+
+}
+
+.date-list{
+    padding-top: 25px;
+    width: 700px;
+    text-align: left;
+    font-size: 1.1em;
+    line-height: 1.5em;
+}
+.date-heading{
+    text-align: center;
+}
+li{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: rgb(61, 59, 59);
+}
+
+.quote{
+    padding-top: 20px;
+    align-items: center;
+    width: 700px;
+    line-height: 1.4em;
+}
+
+footer{
+    padding-top: 25px;
+}
