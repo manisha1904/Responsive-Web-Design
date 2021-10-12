@@ -60,3 +60,29 @@ li{
 footer{
     padding-top: 25px;
 }
+
+@media (max-width:640px) {
+    center{
+        margin: 15px 10px 10px 10px; 
+
+    }
+    header{
+        font-size: 1.1em;
+    }
+    .main-image{
+        width: 100%;
+        height: auto;
+    }
+    .date-list{
+        width: 100%;
+        font-size: 0.9em;
+        text-align: left;
+    }
+    .quote{
+        width: 100%;
+    }
+    footer{
+        width: 100%;
+        font-size: 0.6em;
+    }
+}
